@@ -1,10 +1,16 @@
 _repo: The-Boys-Nelson-The-Story-of-Nelson_50731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50731-h/images/cover.jpg
 creator:
   author:
     agent_name: Wheeler, Harold F. B.
     gutenberg_agent_id: '45905'
     url: http://www.gutenberg.org/2009/agents/45905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50731#The-Boys-Nelson-The-Story-of-Nelson
 gutenberg_issued: '2015-12-20'
 gutenberg_type: Text
 identifiers:
